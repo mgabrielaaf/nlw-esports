@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[🔗 Cliique aqui para acessar](https://link do Github)
+[🔗 Cliique aqui para acessar](https://mgabrielaaf.github.io/nlw-esports/)
 
 ## Tecnologias 👩‍💻
 - HTML
